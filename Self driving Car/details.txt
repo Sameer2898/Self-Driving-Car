@@ -1,0 +1,2 @@
+You can train your own model by the help of nvidia self driving simulator form their official github page.
+And you can also find the trained data images from the internet.
